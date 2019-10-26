@@ -1,0 +1,9 @@
+{
+  "cows": {
+    "cow1":{
+      "name": "Bessy",
+      "color": "Jersy",
+      "weight": 600000
+    }
+  }
+}
